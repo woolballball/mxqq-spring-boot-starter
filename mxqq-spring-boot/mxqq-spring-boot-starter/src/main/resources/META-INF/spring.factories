@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+ mxqq.spring.boot.configuration.MxqqConfiguration
